@@ -1,0 +1,13 @@
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\bin\Debug\EZPositionSizer.exe.config
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\bin\Debug\EZPositionSizer.exe
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\bin\Debug\EZPositionSizer.pdb
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\obj\Debug\EZPositionSizer.csprojAssemblyReference.cache
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\obj\Debug\EZPositionSizer.Form1.resources
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\obj\Debug\EZPositionSizer.Properties.Resources.resources
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\obj\Debug\EZPositionSizer.csproj.GenerateResource.cache
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\obj\Debug\EZPositionSizer.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\obj\Debug\EZPositionSizer.exe
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\obj\Debug\EZPositionSizer.pdb
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\bin\Debug\RestSharp.dll
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\bin\Debug\RestSharp.xml
+C:\Users\User\Google Drive\Programming\Projects\EZPositionSizer\EZPositionSizer\obj\Debug\EZPositionSizer.csproj.CopyComplete
